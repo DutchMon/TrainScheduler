@@ -1,0 +1,19 @@
+
+
+
+/* font */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+	font-family: 'Montserrat', sans-serif !important;
+}
+
+
+
+.jumbotron {
+	/* Override jumbotron background color */
+	background-color: #C04449 !important;
+}
+.car {
+    position: center;
+}
